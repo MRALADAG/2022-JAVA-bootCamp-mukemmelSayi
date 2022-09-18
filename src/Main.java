@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        int number = 6;
-        System.out.println(findMukemmelSayi(number) ? "\nSayi mükemmel sayıdır.\n" : "\nSayı mükemmel sayı değildir.");
+        int number = 28;
+        System.out.println(findMukemmelSayi(number) ? "\nSayı mükemmel sayıdır.\n" : "\nSayı mükemmel sayı değildir.");
 
     }
 
